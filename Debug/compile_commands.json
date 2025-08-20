@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug",
+  "command": "/usr/bin/c++  -I/home/rektship/Code/Gamedev/SFML_Engine/AABB/include -isystem /opt/sfml2/include -g -std=gnu++17 -o CMakeFiles/hello.dir/main.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp",
+  "file": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.o"
+},
+{
+  "directory": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug",
+  "command": "/usr/bin/c++  -I/home/rektship/Code/Gamedev/SFML_Engine/AABB/include -isystem /opt/sfml2/include -g -std=gnu++17 -o CMakeFiles/hello.dir/src/Box.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp",
+  "file": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp",
+  "output": "CMakeFiles/hello.dir/src/Box.cpp.o"
+},
+{
+  "directory": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug",
+  "command": "/usr/bin/c++  -I/home/rektship/Code/Gamedev/SFML_Engine/AABB/include -isystem /opt/sfml2/include -g -std=gnu++17 -o CMakeFiles/hello.dir/src/BoxManager.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp",
+  "file": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp",
+  "output": "CMakeFiles/hello.dir/src/BoxManager.cpp.o"
+},
+{
+  "directory": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug",
+  "command": "/usr/bin/c++  -I/home/rektship/Code/Gamedev/SFML_Engine/AABB/include -isystem /opt/sfml2/include -g -std=gnu++17 -o CMakeFiles/hello.dir/src/Game.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp",
+  "file": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp",
+  "output": "CMakeFiles/hello.dir/src/Game.cpp.o"
+},
+{
+  "directory": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug",
+  "command": "/usr/bin/c++  -I/home/rektship/Code/Gamedev/SFML_Engine/AABB/include -isystem /opt/sfml2/include -g -std=gnu++17 -o CMakeFiles/hello.dir/src/Vec2.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp",
+  "file": "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp",
+  "output": "CMakeFiles/hello.dir/src/Vec2.cpp.o"
+}
+]
