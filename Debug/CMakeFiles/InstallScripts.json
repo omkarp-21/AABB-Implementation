@@ -1,7 +1,7 @@
 {
 	"InstallScripts" : 
 	[
-		"/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/cmake_install.cmake"
+		"/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/cmake_install.cmake"
 	],
 	"Parallel" : false
 }

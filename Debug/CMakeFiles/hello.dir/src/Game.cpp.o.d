@@ -1,10 +1,10 @@
 CMakeFiles/hello.dir/src/Game.cpp.o: \
- /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp \
+ /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Game.cpp \
  /usr/include/stdc-predef.h \
- /home/rektship/Code/Gamedev/SFML_Engine/AABB/include/Game.hpp \
- /home/rektship/Code/Gamedev/SFML_Engine/AABB/include/BoxManager.hpp \
- /home/rektship/Code/Gamedev/SFML_Engine/AABB/include/Box.hpp \
- /home/rektship/Code/Gamedev/SFML_Engine/AABB/include/Component.hpp \
+ /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/include/Game.hpp \
+ /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/include/BoxManager.hpp \
+ /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/include/Box.hpp \
+ /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/include/Component.hpp \
  /opt/sfml2/include/SFML/Graphics.hpp /opt/sfml2/include/SFML/Window.hpp \
  /opt/sfml2/include/SFML/System.hpp /opt/sfml2/include/SFML/Config.hpp \
  /opt/sfml2/include/SFML/System/Clock.hpp \
@@ -251,7 +251,7 @@ CMakeFiles/hello.dir/src/Game.cpp.o: \
  /opt/sfml2/include/SFML/Graphics/Sprite.hpp \
  /opt/sfml2/include/SFML/Graphics/Text.hpp \
  /opt/sfml2/include/SFML/Graphics/VertexBuffer.hpp \
- /home/rektship/Code/Gamedev/SFML_Engine/AABB/include/Vec2.hpp \
+ /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/include/Vec2.hpp \
  /usr/include/c++/15.2.1/memory \
  /usr/include/c++/15.2.1/bits/stl_raw_storage_iter.h \
  /usr/include/c++/15.2.1/bits/align.h \

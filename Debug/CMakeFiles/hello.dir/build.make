@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/rektship/Code/Gamedev/SFML_Engine/AABB
+CMAKE_SOURCE_DIR = /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug
+CMAKE_BINARY_DIR = /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/hello.dir/depend.make
@@ -73,74 +73,74 @@ CMakeFiles/hello.dir/codegen:
 .PHONY : CMakeFiles/hello.dir/codegen
 
 CMakeFiles/hello.dir/main.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/main.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp
+CMakeFiles/hello.dir/main.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/main.cpp
 CMakeFiles/hello.dir/main.cpp.o: CMakeFiles/hello.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/main.cpp.o -MF CMakeFiles/hello.dir/main.cpp.o.d -o CMakeFiles/hello.dir/main.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/hello.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/main.cpp.o -MF CMakeFiles/hello.dir/main.cpp.o.d -o CMakeFiles/hello.dir/main.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/main.cpp
 
 CMakeFiles/hello.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp > CMakeFiles/hello.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/main.cpp > CMakeFiles/hello.dir/main.cpp.i
 
 CMakeFiles/hello.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp -o CMakeFiles/hello.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/main.cpp -o CMakeFiles/hello.dir/main.cpp.s
 
 CMakeFiles/hello.dir/src/Box.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/src/Box.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp
+CMakeFiles/hello.dir/src/Box.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Box.cpp
 CMakeFiles/hello.dir/src/Box.cpp.o: CMakeFiles/hello.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello.dir/src/Box.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/Box.cpp.o -MF CMakeFiles/hello.dir/src/Box.cpp.o.d -o CMakeFiles/hello.dir/src/Box.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/hello.dir/src/Box.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/Box.cpp.o -MF CMakeFiles/hello.dir/src/Box.cpp.o.d -o CMakeFiles/hello.dir/src/Box.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Box.cpp
 
 CMakeFiles/hello.dir/src/Box.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello.dir/src/Box.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp > CMakeFiles/hello.dir/src/Box.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Box.cpp > CMakeFiles/hello.dir/src/Box.cpp.i
 
 CMakeFiles/hello.dir/src/Box.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello.dir/src/Box.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp -o CMakeFiles/hello.dir/src/Box.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Box.cpp -o CMakeFiles/hello.dir/src/Box.cpp.s
 
 CMakeFiles/hello.dir/src/BoxManager.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/src/BoxManager.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp
+CMakeFiles/hello.dir/src/BoxManager.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/BoxManager.cpp
 CMakeFiles/hello.dir/src/BoxManager.cpp.o: CMakeFiles/hello.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello.dir/src/BoxManager.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/BoxManager.cpp.o -MF CMakeFiles/hello.dir/src/BoxManager.cpp.o.d -o CMakeFiles/hello.dir/src/BoxManager.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/hello.dir/src/BoxManager.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/BoxManager.cpp.o -MF CMakeFiles/hello.dir/src/BoxManager.cpp.o.d -o CMakeFiles/hello.dir/src/BoxManager.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/BoxManager.cpp
 
 CMakeFiles/hello.dir/src/BoxManager.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello.dir/src/BoxManager.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp > CMakeFiles/hello.dir/src/BoxManager.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/BoxManager.cpp > CMakeFiles/hello.dir/src/BoxManager.cpp.i
 
 CMakeFiles/hello.dir/src/BoxManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello.dir/src/BoxManager.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp -o CMakeFiles/hello.dir/src/BoxManager.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/BoxManager.cpp -o CMakeFiles/hello.dir/src/BoxManager.cpp.s
 
 CMakeFiles/hello.dir/src/Game.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/src/Game.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp
+CMakeFiles/hello.dir/src/Game.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Game.cpp
 CMakeFiles/hello.dir/src/Game.cpp.o: CMakeFiles/hello.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hello.dir/src/Game.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/Game.cpp.o -MF CMakeFiles/hello.dir/src/Game.cpp.o.d -o CMakeFiles/hello.dir/src/Game.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/hello.dir/src/Game.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/Game.cpp.o -MF CMakeFiles/hello.dir/src/Game.cpp.o.d -o CMakeFiles/hello.dir/src/Game.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Game.cpp
 
 CMakeFiles/hello.dir/src/Game.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello.dir/src/Game.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp > CMakeFiles/hello.dir/src/Game.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Game.cpp > CMakeFiles/hello.dir/src/Game.cpp.i
 
 CMakeFiles/hello.dir/src/Game.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello.dir/src/Game.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp -o CMakeFiles/hello.dir/src/Game.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Game.cpp -o CMakeFiles/hello.dir/src/Game.cpp.s
 
 CMakeFiles/hello.dir/src/Vec2.cpp.o: CMakeFiles/hello.dir/flags.make
-CMakeFiles/hello.dir/src/Vec2.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp
+CMakeFiles/hello.dir/src/Vec2.cpp.o: /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Vec2.cpp
 CMakeFiles/hello.dir/src/Vec2.cpp.o: CMakeFiles/hello.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hello.dir/src/Vec2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/Vec2.cpp.o -MF CMakeFiles/hello.dir/src/Vec2.cpp.o.d -o CMakeFiles/hello.dir/src/Vec2.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/hello.dir/src/Vec2.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/hello.dir/src/Vec2.cpp.o -MF CMakeFiles/hello.dir/src/Vec2.cpp.o.d -o CMakeFiles/hello.dir/src/Vec2.cpp.o -c /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Vec2.cpp
 
 CMakeFiles/hello.dir/src/Vec2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/hello.dir/src/Vec2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp > CMakeFiles/hello.dir/src/Vec2.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Vec2.cpp > CMakeFiles/hello.dir/src/Vec2.cpp.i
 
 CMakeFiles/hello.dir/src/Vec2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/hello.dir/src/Vec2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp -o CMakeFiles/hello.dir/src/Vec2.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Vec2.cpp -o CMakeFiles/hello.dir/src/Vec2.cpp.s
 
 # Object files for target hello
 hello_OBJECTS = \
@@ -166,7 +166,7 @@ hello: /opt/sfml2/lib/libsfml-audio.so.2.6.2
 hello: /opt/sfml2/lib/libsfml-window.so.2.6.2
 hello: /opt/sfml2/lib/libsfml-system.so.2.6.2
 hello: CMakeFiles/hello.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable hello"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable hello"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/hello.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -178,6 +178,6 @@ CMakeFiles/hello.dir/clean:
 .PHONY : CMakeFiles/hello.dir/clean
 
 CMakeFiles/hello.dir/depend:
-	cd /home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/rektship/Code/Gamedev/SFML_Engine/AABB /home/rektship/Code/Gamedev/SFML_Engine/AABB /home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug /home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug /home/rektship/Code/Gamedev/SFML_Engine/AABB/Debug/CMakeFiles/hello.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug /home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/Debug/CMakeFiles/hello.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/hello.dir/depend
 

@@ -7,7 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "Unix Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
-  "/home/rektship/Code/Gamedev/SFML_Engine/AABB/CMakeLists.txt"
+  "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/CMakeLists.txt"
   "CMakeFiles/4.0.3-dirty/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.0.3-dirty/CMakeSystem.cmake"
   "/opt/sfml2/lib/cmake/SFML/SFMLConfig.cmake"

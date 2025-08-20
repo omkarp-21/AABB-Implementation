@@ -49,14 +49,14 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -std=gnu++17"
+					"fragment" : "-std=gnu++17"
 				}
 			],
 			"includes" : 
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/rektship/Code/Gamedev/SFML_Engine/AABB/include"
+					"path" : "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/include"
 				},
 				{
 					"backtrace" : 2,
@@ -88,10 +88,6 @@
 	{
 		"commandFragments" : 
 		[
-			{
-				"fragment" : "-g",
-				"role" : "flags"
-			},
 			{
 				"fragment" : "-Wl,-rpath,/opt/sfml2/lib",
 				"role" : "libraries"

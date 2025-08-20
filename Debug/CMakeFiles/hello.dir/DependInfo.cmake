@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/rektship/Code/Gamedev/SFML_Engine/AABB/main.cpp" "CMakeFiles/hello.dir/main.cpp.o" "gcc" "CMakeFiles/hello.dir/main.cpp.o.d"
-  "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Box.cpp" "CMakeFiles/hello.dir/src/Box.cpp.o" "gcc" "CMakeFiles/hello.dir/src/Box.cpp.o.d"
-  "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/BoxManager.cpp" "CMakeFiles/hello.dir/src/BoxManager.cpp.o" "gcc" "CMakeFiles/hello.dir/src/BoxManager.cpp.o.d"
-  "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Game.cpp" "CMakeFiles/hello.dir/src/Game.cpp.o" "gcc" "CMakeFiles/hello.dir/src/Game.cpp.o.d"
-  "/home/rektship/Code/Gamedev/SFML_Engine/AABB/src/Vec2.cpp" "CMakeFiles/hello.dir/src/Vec2.cpp.o" "gcc" "CMakeFiles/hello.dir/src/Vec2.cpp.o.d"
+  "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/main.cpp" "CMakeFiles/hello.dir/main.cpp.o" "gcc" "CMakeFiles/hello.dir/main.cpp.o.d"
+  "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Box.cpp" "CMakeFiles/hello.dir/src/Box.cpp.o" "gcc" "CMakeFiles/hello.dir/src/Box.cpp.o.d"
+  "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/BoxManager.cpp" "CMakeFiles/hello.dir/src/BoxManager.cpp.o" "gcc" "CMakeFiles/hello.dir/src/BoxManager.cpp.o.d"
+  "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Game.cpp" "CMakeFiles/hello.dir/src/Game.cpp.o" "gcc" "CMakeFiles/hello.dir/src/Game.cpp.o.d"
+  "/home/rektship/Code/Gamedev/SFML_Engine/AABB-Implementation/src/Vec2.cpp" "CMakeFiles/hello.dir/src/Vec2.cpp.o" "gcc" "CMakeFiles/hello.dir/src/Vec2.cpp.o.d"
   "" "hello" "gcc" "CMakeFiles/hello.dir/link.d"
   )
 
